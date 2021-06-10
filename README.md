@@ -1,5 +1,5 @@
 # odoo-custom-addons
-Odoo custom addons for community edition 13.0
+Odoo custom addons for community edition 14.0
 
 git clone https://github.com/hrmuwanika/odoo-custom-addons.git
 
