@@ -12,6 +12,7 @@
     "author": "LasLabs, Tecnativa, " "Odoo Community Association (OCA)",
     "license": "LGPL-3",
     "installable": True,
+    "auto_install": True,
     "depends": ["web", "mail"],
     "development_status": "Production/Stable",
     "maintainers": ["Yajo", "Tardo"],
