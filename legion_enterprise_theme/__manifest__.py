@@ -22,7 +22,7 @@
     'price':0,
     'currency':'USD',
     'installable': True,
-    'auto_install': False,
+    'auto_install': True,
     'application': True,
     'images': ['static/description/icon.png','static/description/main_screenshot.png']
 }
