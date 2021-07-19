@@ -4,12 +4,18 @@
     'name': 'Functional Training Odoo CE',
     'category': 'Extra Tools',
     'version': '14.0.1.0.0',
-    'authr': 'Smart Business Solutions Ltd',
+    'sequence': 100,
+    'author': 'Smart Business Solutions Ltd',
     'company': 'Smart Business Solutions Ltd',
     'website': 'https://www.smartbusiness.co.ug',
     
     'summary': 'Functional Training Odoo CE',
-  
+    'description': """
+      Functional training
+      - odoo installation
+      - module development
+      - performance
+      """,
     'depends': ['website_slides'],
     'data': [
         'data/slide_channel_data.xml',
